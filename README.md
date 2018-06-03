@@ -1,1 +1,1 @@
-# STM32 UART1 DMA Tx Rx demo
+# STM32 UART1 DMA Tx and Rx demo
